@@ -1,7 +1,7 @@
 
 var ageVerifier = function(age) {
   if (age < 21) {
-    console.log("Too young.");
+    console.log("Too young");
   }
   else {
       console.log("Proceed");
